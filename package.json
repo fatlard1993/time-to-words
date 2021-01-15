@@ -1,0 +1,14 @@
+{
+  "name": "time-to-words",
+  "version": "1.0.0",
+  "description": "Convert Integer Time to English Word Representation",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "author": "justfatlard",
+  "license": "MIT",
+  "devDependencies": {
+    "csv-parse": "^4.14.2"
+  }
+}
